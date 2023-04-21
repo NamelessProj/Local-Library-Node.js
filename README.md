@@ -1,4 +1,4 @@
-# Local library
+# Local library (Node.js / Express)
 
 This is my first try with Node.js / Express. ([The tuto I've used](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website))
 
