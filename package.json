@@ -1,6 +1,9 @@
 {
   "name": "express-locallibrary",
   "version": "0.0.0",
+  "engine": {
+    "node": ">=18.16.0"
+  },
   "private": true,
   "scripts": {
     "start2": "node ./bin/www",
